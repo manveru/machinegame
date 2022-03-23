@@ -1,0 +1,4 @@
+[formatter.js]
+command = "prettier"
+options = ["--no-semi", "--write"]
+includes = ["*.js"]
